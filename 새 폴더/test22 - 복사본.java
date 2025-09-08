@@ -9,11 +9,7 @@ public class test22 {
 		Scanner sc = new Scanner(System.in);
 		String input = sc.nextLine();
 		
-		String[] numList = input.split(",");
-		
-		for(String p : numList) {
-			int big = Integer.parseInt(p);
-			System.out.println(big);
+
 		}
 		
 		
